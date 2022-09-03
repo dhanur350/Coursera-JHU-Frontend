@@ -1,0 +1,19 @@
+{
+  "name": "coursera-jhu-frontend",
+  "version": "1.0.0",
+  "description": "Liveserver this page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dhanur350/Coursera-JHU-Frontend.git"
+  },
+  "author": "dhanur350",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dhanur350/Coursera-JHU-Frontend/issues"
+  },
+  "homepage": "https://github.com/dhanur350/Coursera-JHU-Frontend#readme"
+}
