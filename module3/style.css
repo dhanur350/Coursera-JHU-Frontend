@@ -1,47 +1,44 @@
-*{
-	margin: 0;
-	padding: 0;
-	
+* {
+  margin: 0;
+  padding: 0;
 }
-.navbar{
-	border: 2px solid black;
-	outline-color: black;
-	outline-width: thick;
-border: none;
-background-color: lightgray;
-color: #61122F;
+.navbar {
+  border: 2px solid black;
+  outline-color: black;
+  outline-width: thick;
+  border: none;
+  background-color: lightgray;
+  color: #61122f;
 }
-body{
-	background-color: white;
-	color: black;
+body {
+  background-color: white;
+  color: black;
 }
-.glyphicon{
-	font-size: 30px;
-	color:black; 
-}
-
-.center{
-	width: 90%;
-	background-color: grey;
-
-}
-.container
-{
-	background-color: grey;
-}
-.text-center{
-	background-color: white;
-	font-size: 30px;
+.glyphicon {
+  font-size: 30px;
+  color: black;
 }
 
-h2{
-	text-align: center;
+.center {
+  width: 90%;
+  background-color: grey;
+}
+.container {
+  background-color: grey;
+}
+.text-center {
+  background-color: white;
+  font-size: 30px;
+}
+
+h2 {
+  text-align: center;
 }
 #myNavbar ul li a {
-	color: black;
+  color: black;
 }
-.navbar-brand{
-	background-color: lightgrey;
-	color: black;
-font-size: 30px;	
+.navbar-brand {
+  background-color: lightgrey;
+  color: black;
+  font-size: 30px;
 }
